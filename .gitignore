@@ -1,0 +1,5 @@
+*.bak
+*.org
+*.sample
+*.php
+!index.php
